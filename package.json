@@ -2,7 +2,7 @@
   "name": "froggyfrog-membership",
   "version": "0.0.1",
   "author": "rob conery",
-  "description": "A membership system patterned after Devise"
+  "description": "A membership system patterned after Devise",
   "dependencies": {},
   "devDependencies": {
     "grunt": "*",
