@@ -1,0 +1,14 @@
+{
+  "name": "froggyfrog-membership",
+  "author": "rob conery",
+  "description": "A membership system patterned after Devise",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jslint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^4.1.0",
+    "mocha": "^2.0.1"
+  }
+}
